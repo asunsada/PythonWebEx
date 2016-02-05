@@ -10,7 +10,7 @@ else:
     print('that is crazy talk')
 
 
-if 5*5==25:
+if crazy_variable==sane_variable:
     print ('this is not crazy talk')
 else:
     print ('that is crazy talk')

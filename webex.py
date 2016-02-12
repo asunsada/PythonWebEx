@@ -1,4 +1,4 @@
-
+'''This module contains some simple checks for WebEx.'''
 import subprocess
 
 crazy_variable = 1
